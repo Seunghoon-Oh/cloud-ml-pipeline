@@ -1,1 +1,1 @@
-# cloud-ml-pipeline
+# cloud-ml-pipeline-manager
