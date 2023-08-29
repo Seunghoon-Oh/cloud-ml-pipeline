@@ -2,10 +2,7 @@ module github.com/Seunghoon-Oh/cloud-ml-pipeline-manager
 
 go 1.21.0
 
-require (
-	github.com/Seunghoon-Oh/cloud-ml-notebook-manager v0.0.0-20230829030743-1507e4e697d3
-	github.com/gin-gonic/gin v1.9.1
-)
+require github.com/gin-gonic/gin v1.9.1
 
 require (
 	github.com/bytedance/sonic v1.9.1 // indirect

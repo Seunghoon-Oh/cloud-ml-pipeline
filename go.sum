@@ -1,5 +1,3 @@
-github.com/Seunghoon-Oh/cloud-ml-notebook-manager v0.0.0-20230829030743-1507e4e697d3 h1:Cb8Ej3520+/Gk9VUWa7PVIW+V4sXWP14Kjpmx7Fd0rc=
-github.com/Seunghoon-Oh/cloud-ml-notebook-manager v0.0.0-20230829030743-1507e4e697d3/go.mod h1:gF6XcxzQNC2quIo5vz9VPTD3XewujqSZlV5PiEUhCYs=
 github.com/bytedance/sonic v1.5.0/go.mod h1:ED5hyg4y6t3/9Ku1R6dU/4KyJ48DZ4jPhfY1O2AihPM=
 github.com/bytedance/sonic v1.9.1 h1:6iJ6NqdoxCDr6mbY8h18oSO+cShGSMRGCEo7F2h0x8s=
 github.com/bytedance/sonic v1.9.1/go.mod h1:i736AoUSYt75HyZLoJW9ERYxcy6eaN6h4BZXU064P/U=

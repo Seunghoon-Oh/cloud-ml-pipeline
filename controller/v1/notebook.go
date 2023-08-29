@@ -5,7 +5,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"github.com/Seunghoon-Oh/cloud-ml-notebook-manager/service"
+	"github.com/Seunghoon-Oh/cloud-ml-pipeline-manager/service"
 )
 
 // func GetNotebooks() {
