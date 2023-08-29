@@ -3,9 +3,8 @@ package v1
 import (
 	"net/http"
 
-	"github.com/gin-gonic/gin"
-
 	"github.com/Seunghoon-Oh/cloud-ml-pipeline-manager/service"
+	"github.com/gin-gonic/gin"
 )
 
 // func GetNotebooks() {
