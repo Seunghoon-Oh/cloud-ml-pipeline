@@ -9,6 +9,6 @@ import (
 
 func GetPipelines(c *gin.Context) {
 	data := service.GetPipelines()
-	println(data)
+	println("Response: " + data)
 	c.String(http.StatusOK, data)
 }
