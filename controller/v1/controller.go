@@ -9,6 +9,12 @@ import (
 
 func GetPipelines(c *gin.Context) {
 	data := service.GetPipelines()
-	println("Response: " + data)
+	c.JSON(http.StatusOK, gin.H{
+		"data": data,
+	})
+}
+
+func CreatePipeline(c *gin.Context) {
+	data := service.CreatePipeline()
 	c.String(http.StatusOK, data)
 }
